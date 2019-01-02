@@ -15,3 +15,10 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 - https://github.com/danteata/awesome-aws-lambda
 - 
 
+-------------------------------------------------------------------
+
+<object data="https://www.jfokus.se/jfokus18/preso/Serverless-Architecture-Patterns-and-Best-Practices.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://www.jfokus.se/jfokus18/preso/Serverless-Architecture-Patterns-and-Best-Practices.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.jfokus.se/jfokus18/preso/Serverless-Architecture-Patterns-and-Best-Practices.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
