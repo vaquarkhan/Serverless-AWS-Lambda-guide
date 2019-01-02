@@ -8,13 +8,7 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 
 1. [Hands-on guide for building serverless applications with AWS Lambda and Serverless Framework](./01-aws-lambda-serverless-framework): This section covers how to build Serverless applications with AWS Lambda and Serverless framework. Throughout this section, we will build an online coding round evaluator that organizations can use to automate their coding interview.
 
+------------------------------------------------------------------------
 
-## Authors
-
-1. [Shekhar Gulati](https://twitter.com/shekhargulati)
-
-
-## Thanks
-
-Thanks to my employer [Xebia](https://xebia.com/) for giving me opportunity to work with the latest technologies. If you are interested in working with us, you can send your resume to sgulati@xebia.com.
+- https://github.com/vaquarkhan/serverless-architecture-with-aws
 
