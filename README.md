@@ -1,3 +1,9 @@
+
+
+![Alt Text](https://cdn-images-1.medium.com/max/1600/1*CAS2UKlhVhNT8O_TzD-YpA@2x.png)
+
+------------------------------------------------------------------------------------------------
+
 # Hands-on Guide For Building Serverless Applications
 
 This is a hands-on guide for building Serverless applications. This guide is divided into various sections. The first section is about building serverless applications with the [Serverless](https://github.com/serverless/serverless) framework and [AWS Lambda](https://aws.amazon.com/lambda/). This guide is a work in progress so I will keep adding content as I continue to learn and understand the Serverless ecosystem.
@@ -19,6 +25,9 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 - https://github.com/awslabs/aws-serverless-auth-reference-app
 - https://github.com/PacktPublishing/Mastering-AWS-Lambda
 - https://www.puresec.io/blog/aws-security-best-practices-config-rules-lambda-security
+- https://github.com/danilop/LambdAuth
+- https://github.com/PacktPublishing/Hands-On-Serverless-Applications-with-Go
+- https://ivanjov.com/aws-serverless-stack-api-gateway-lambda-and-dynamodb/
 
 -------------------------------------------------------------------
 
