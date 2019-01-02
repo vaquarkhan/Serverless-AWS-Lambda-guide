@@ -60,6 +60,15 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 AWS Step Functions lets you coordinate multiple AWS services into serverless workflows so you can build and update apps quickly. Using Step Functions, you can design and run workflows that stitch together services such as AWS Lambda and Amazon ECS into feature-rich applications. Workflows are made up of a series of steps, with the output of one step acting as input into the next. Application development is simpler and more intuitive using Step Functions, because it translates your workflow into a state machine diagram that is easy to understand, easy to explain to others, and easy to change. You can monitor each step of execution as it happens, which means you can identify and fix problems quickly. Step Functions automatically triggers and tracks each step, and retries when there are errors, so your application executes in order and as expected.
 
 - https://aws.amazon.com/step-functions/resources/
+- https://medium.com/@tturnbull/passing-data-between-lambdas-with-aws-step-functions-6f8d45f717c3
+- https://cloudacademy.com/blog/aws-step-functions-a-serverless-orchestrator/
+- https://docs.aws.amazon.com/step-functions/latest/dg/tutorial-creating-activity-state-machine.html
+- https://github.com/rlondner/aws-stepfunctions-samples
+- https://github.com/OsamaJBR/teach-me-aws-stepfunctions
+- https://github.com/serverless/blog/blob/master/posts/2017-09-18-how-to-manage-your-aws-step-functions-with-serverless.md
+- https://github.com/awsdocs/aws-step-functions-developer-guide/blob/master/doc_source/tutorial-create-iterate-pattern-section.md
+- https://github.com/awsdocs/aws-step-functions-developer-guide/blob/master/doc_source/tutorial-creating-activity-state-machine.md
+- https://github.com/mugglmenzel/step-functions-example-workflow
 
 #### Video
 - https://www.youtube.com/watch?v=Dh7h3lkpeP4
