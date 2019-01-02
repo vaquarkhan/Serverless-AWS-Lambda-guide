@@ -9,7 +9,7 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 1. [Hands-on guide for building serverless applications with AWS Lambda and Serverless Framework](./01-aws-lambda-serverless-framework): This section covers how to build Serverless applications with AWS Lambda and Serverless framework. Throughout this section, we will build an online coding round evaluator that organizations can use to automate their coding interview.
 
 ------------------------------------------------------------------------
-
+- https://aws.amazon.com/lambda/resources/
 - https://github.com/vaquarkhan/serverless-architecture-with-aws
 - https://github.com/anaibol/awesome-serverless
 - https://github.com/danteata/awesome-aws-lambda
@@ -18,6 +18,7 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 - https://github.com/danilop/AWS_Lambda_in_Action
 - https://github.com/awslabs/aws-serverless-auth-reference-app
 - https://github.com/PacktPublishing/Mastering-AWS-Lambda
+- https://www.puresec.io/blog/aws-security-best-practices-config-rules-lambda-security
 
 -------------------------------------------------------------------
 
