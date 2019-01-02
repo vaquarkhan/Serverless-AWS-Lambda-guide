@@ -13,7 +13,11 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 - https://github.com/vaquarkhan/serverless-architecture-with-aws
 - https://github.com/anaibol/awesome-serverless
 - https://github.com/danteata/awesome-aws-lambda
-- 
+- https://www.tutorialspoint.com/aws_lambda/aws_lambda_tutorial.pdf
+- http://riptutorial.com/Download/aws-lambda.pdf
+- https://github.com/danilop/AWS_Lambda_in_Action
+- https://github.com/awslabs/aws-serverless-auth-reference-app
+- https://github.com/PacktPublishing/Mastering-AWS-Lambda
 
 -------------------------------------------------------------------
 
