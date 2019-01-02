@@ -11,4 +11,7 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 ------------------------------------------------------------------------
 
 - https://github.com/vaquarkhan/serverless-architecture-with-aws
+- https://github.com/anaibol/awesome-serverless
+- https://github.com/danteata/awesome-aws-lambda
+- 
 
