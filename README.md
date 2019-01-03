@@ -1,6 +1,6 @@
 
 
-![Alt Text](https://cdn-images-1.medium.com/max/1600/1*CAS2UKlhVhNT8O_TzD-YpA@2x.png)44
+![Alt Text](https://cdn-images-1.medium.com/max/1600/1*CAS2UKlhVhNT8O_TzD-YpA@2x.png)
 
 AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running.
 
