@@ -35,6 +35,7 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 - https://github.com/PacktPublishing/Hands-On-Serverless-Applications-with-Go
 - https://ivanjov.com/aws-serverless-stack-api-gateway-lambda-and-dynamodb/
 - https://aws.amazon.com/blogs/compute/error-handling-patterns-in-amazon-api-gateway-and-aws-lambda/
+- https://github.com/vaquarkhan/awesome-serverless
 -------------------------------------------------------------------
 #### Video
 - https://www.youtube.com/watch?v=WrPOz2dx8XY
