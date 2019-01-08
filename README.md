@@ -6,6 +6,21 @@
 
 AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running.With Lambda, you can run code for virtually any type of application or backend service - all with zero administration. Just upload your code and Lambda takes care of everything required to run and scale your code with high availability. You can set up your code to automatically trigger from other AWS services or call it directly from any web or mobile app
 
+#### Building Blocks of a Lambda Application
+* Function – A script or program that runs in AWS Lambda. Lambda passes invocation events to your function. The function processes an event and returns a response. For more information, see Working with Lambda Functions.
+
+* Runtimes – Lambda runtimes allow functions in different languages to run in the same base execution environment. You configure your function to use a runtime that matches your programming language. The runtime sits in-between the Lambda service and your function code, relaying invocation events, context information, and responses between the two. You can use runtimes provided by Lambda, or build your own. For more infromation, see AWS Lambda Runtimes.
+
+* Layers – Lambda layers are a distribution mechanism for libraries, custom runtimes, and other function dependencies. Layers let you manage your in-development function code independently from the unchanging code and resources that it uses. You can configure your function to use layers that you create, layers provided by AWS, or layers from other AWS customers. For more infromation, see AWS Lambda Layers
+
+* Event source – An AWS service, such as Amazon SNS, or a custom service, that triggers your function and executes its logic. For more information, see AWS Lambda Event Source Mapping.
+
+* Downstream resources – An AWS service, such as DynamoDB tables or Amazon S3 buckets, that your Lambda function calls once it is triggered.
+
+* Log streams – While Lambda automatically monitors your function invocations and reports metrics to CloudWatch, you can annotate your function code with custom logging statements that allow you to analyze the execution flow and performance of your Lambda function to ensure it's working properly.
+
+* AWS SAM – A model to define serverless applications. AWS SAM is natively supported by AWS CloudFormation and defines simplified syntax for expressing serverless resources. For more information, see What Is AWS SAM? in the AWS Serverless Application Model Developer Guide.
+
 
 
 * Handler :
