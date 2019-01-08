@@ -46,19 +46,7 @@ AWS Lambda lets you run code without provisioning or managing servers. You pay o
 * Client data synchronization events in Amazon Cognito.
 
 
-------------------------------------------------------------------------------------------------
 
-# Hands-on Guide For Building Serverless Applications
-
-This is a hands-on guide for building Serverless applications. This guide is divided into various sections. The first section is about building serverless applications with the [Serverless](https://github.com/serverless/serverless) framework and [AWS Lambda](https://aws.amazon.com/lambda/). This guide is a work in progress so I will keep adding content as I continue to learn and understand the Serverless ecosystem.
-
-I plan to cover different Serverless providers and tools in the Serverless ecosystem. Follow this repository to learn and master the Serverless ecosystem.
-
-## Sections
-
-1. [Hands-on guide for building serverless applications with AWS Lambda and Serverless Framework](./01-aws-lambda-serverless-framework): This section covers how to build Serverless applications with AWS Lambda and Serverless framework. Throughout this section, we will build an online coding round evaluator that organizations can use to automate their coding interview.
-
-------------------------------------------------------------------------
 ####  AWS Lambda has the following limitations.
 Runtime Environment limitations:
 
@@ -138,6 +126,20 @@ AWS Step Functions lets you coordinate multiple AWS services into serverless wor
 - https://www.youtube.com/watch?v=qE_ZD98K43I
 - https://www.youtube.com/watch?v=zwD157KKEWg&list=PLrOyJq2oDA6Hq9N-YQOWxtttW6i7eE863
 -------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+
+## Hands-on Guide For Building Serverless Applications
+
+This is a hands-on guide for building Serverless applications. This guide is divided into various sections. The first section is about building serverless applications with the [Serverless](https://github.com/serverless/serverless) framework and [AWS Lambda](https://aws.amazon.com/lambda/). This guide is a work in progress so I will keep adding content as I continue to learn and understand the Serverless ecosystem.
+
+I plan to cover different Serverless providers and tools in the Serverless ecosystem. Follow this repository to learn and master the Serverless ecosystem.
+
+## Sections
+
+1. [Hands-on guide for building serverless applications with AWS Lambda and Serverless Framework](./01-aws-lambda-serverless-framework): This section covers how to build Serverless applications with AWS Lambda and Serverless framework. Throughout this section, we will build an online coding round evaluator that organizations can use to automate their coding interview.
+
+------------------------------------------------------------------------
 
 
 <object data="https://www.jfokus.se/jfokus18/preso/Serverless-Architecture-Patterns-and-Best-Practices.pdf" type="application/pdf" width="700px" height="700px">
