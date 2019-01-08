@@ -20,6 +20,23 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 1. [Hands-on guide for building serverless applications with AWS Lambda and Serverless Framework](./01-aws-lambda-serverless-framework): This section covers how to build Serverless applications with AWS Lambda and Serverless framework. Throughout this section, we will build an online coding round evaluator that organizations can use to automate their coding interview.
 
 ------------------------------------------------------------------------
+####  AWS Lambda has the following limitations.
+Runtime Environment limitations:
+
+The disk space is limited to 512 MB.
+* The default deployment package size is 50 MB.
+* Memory range is from 128 to 1536 MB.
+* Maximum execution timeout for a function is 15 minutes*.
+Requests limitations by lambda:
+
+Request and response body payload size are maximized to 6 MB.
+* Event request body can be up to 128 KB.
+
+- https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
+
+------------------------------------------------------------------------
+
+
 #### Link 
 - https://aws.amazon.com/lambda/resources/
 - https://github.com/vaquarkhan/serverless-architecture-with-aws
