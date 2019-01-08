@@ -2,9 +2,31 @@
 
 ![Alt Text](https://cdn-images-1.medium.com/max/1600/1*CAS2UKlhVhNT8O_TzD-YpA@2x.png)
 
-AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running.
+AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume - there is no charge when your code is not running.With Lambda, you can run code for virtually any type of application or backend service - all with zero administration. Just upload your code and Lambda takes care of everything required to run and scale your code with high availability. You can set up your code to automatically trigger from other AWS services or call it directly from any web or mobile app
 
-With Lambda, you can run code for virtually any type of application or backend service - all with zero administration. Just upload your code and Lambda takes care of everything required to run and scale your code with high availability. You can set up your code to automatically trigger from other AWS services or call it directly from any web or mobile app
+
+
+* Handler :
+
+* Context :
+
+* Logging :
+
+* Errors :
+
+* Tracing
+
+------------------------------------------------------------------------------------------------
+
+### Events that can trigger a Lambda function
+ You can configure these events to trigger Lambda functions:
+
+* Table updates in Amazon DynamoDB.
+* Modifications to objects in S3 buckets.
+* Notifications sent from Amazon SNS.
+* Messages arriving in an Amazon Kinesis stream.
+* AWS API call logs created by AWS CloudTrail.
+* Client data synchronization events in Amazon Cognito.
 
 
 ------------------------------------------------------------------------------------------------
