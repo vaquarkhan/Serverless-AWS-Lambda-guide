@@ -35,7 +35,7 @@ AWS Lambda lets you run code without provisioning or managing servers. You pay o
 
 ------------------------------------------------------------------------------------------------
 
-### Events that can trigger a Lambda function
+####  Events that can trigger a Lambda function
  You can configure these events to trigger Lambda functions:
 
 * Table updates in Amazon DynamoDB.
@@ -45,7 +45,7 @@ AWS Lambda lets you run code without provisioning or managing servers. You pay o
 * AWS API call logs created by AWS CloudTrail.
 * Client data synchronization events in Amazon Cognito.
 
-
+------------------------------------------------------------------------------------------------
 
 ####  AWS Lambda has the following limitations.
 Runtime Environment limitations:
