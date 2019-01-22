@@ -140,8 +140,11 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 1. [Hands-on guide for building serverless applications with AWS Lambda and Serverless Framework](./01-aws-lambda-serverless-framework): This section covers how to build Serverless applications with AWS Lambda and Serverless framework. Throughout this section, we will build an online coding round evaluator that organizations can use to automate their coding interview.
 
 ------------------------------------------------------------------------
+## Serverless-failure-stories
 
+- https://github.com/cristim/serverless-failure-stories
 
+------------------------------------------------------------------------
 <object data="https://www.jfokus.se/jfokus18/preso/Serverless-Architecture-Patterns-and-Best-Practices.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://www.jfokus.se/jfokus18/preso/Serverless-Architecture-Patterns-and-Best-Practices.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.jfokus.se/jfokus18/preso/Serverless-Architecture-Patterns-and-Best-Practices.pdf">Download PDF</a>.</p>
