@@ -126,6 +126,11 @@ AWS Step Functions lets you coordinate multiple AWS services into serverless wor
 - https://www.youtube.com/watch?v=qE_ZD98K43I
 - https://www.youtube.com/watch?v=zwD157KKEWg&list=PLrOyJq2oDA6Hq9N-YQOWxtttW6i7eE863
 -------------------------------------------------------------------
+## AWS Lambda Layers
+
+You can configure your Lambda function to pull in additional code and content in the form of layers. A layer is a ZIP archive that contains libraries, a custom runtime, or other dependencies. With layers, you can use libraries in your function without needing to include them in your deployment package.
+
+Layers let you keep your deployment package small, which makes development easier. You can avoid errors that can occur when you install and package dependencies with your function code. For Node.js, Python, and Ruby functions, you can develop your function code in the Lambda console as long as you keep your deployment package under 3 MB.
 
 ------------------------------------------------------------------------------------------------
 
